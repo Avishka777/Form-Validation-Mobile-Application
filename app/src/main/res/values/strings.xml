@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tutorial 05</string>
+    <string name="tvTitle">Register Student</string>
+    <string name="edtStudentID">Enter Student ID</string>
+    <string name="tvYear">Select Academic Year</string>
+    <string name="tvSemester">Select the Semester</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="cbAgreement">I agree to terms and conditions</string>
+    <string-array name="years">
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="semesters">
+        <item>Semester 1</item>
+        <item>Semester 2</item>
+    </string-array>
+</resources>
